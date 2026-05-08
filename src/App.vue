@@ -25,7 +25,7 @@ import { FileText } from 'lucide-vue-next'
         >Full View</RouterLink>
       </nav>
 
-      <div class="w-[90px]"></div>
+      <div class="w-22.5"></div>
     </header>
     <main class="flex-1 overflow-hidden">
       <RouterView v-slot="{ Component }">
